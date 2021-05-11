@@ -5,6 +5,9 @@ def majuscule(mot):
     return mot
 
 
+
+
+
 if __name__ == '__main__':
     mots = [
         'riz',
